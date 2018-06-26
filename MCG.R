@@ -1,6 +1,6 @@
 #Matrix Congruential Generator
 
-# declare function of 100 000 numbers in the sequence
+# declare function of 9 numbers in the sequence
 lcg.rand <- function(n=9) {
 
 # declare matrix
